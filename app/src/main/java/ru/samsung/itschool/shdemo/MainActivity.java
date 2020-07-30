@@ -22,7 +22,7 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String APP_TAG = "SimpleHealth";
+    public static final String APP_TAG = "SamsungHealthDemo";
 
     private TextView mStepCountTV;
 
